@@ -83,6 +83,6 @@ Copy
 Edit
 pip install -r requirements.txt
 ```
-#🙌 Contributing
-#Feel free to fork this repository, make enhancements, and open a pull request.
+# 🙌 Contributing
+# Feel free to fork this repository, make enhancements, and open a pull request.
 
